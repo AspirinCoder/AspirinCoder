@@ -20,9 +20,9 @@
 
 ### -App Development
 # ![Link to Certificate](https://github.com/AspirinCoder/AspirinCoder/blob/main/Muaaz_App_Development.pdf)
-# Recieved from Bright Champs
+Recieved from Bright Champs
 
 
 ### -Coding Foundation
 # ![Link to Certificate](https://github.com/AspirinCoder/AspirinCoder/blob/main/Muaaz_Coding_Foundation.pdf)
-# Recieved from Bright Champs
+Recieved from Bright Champs
