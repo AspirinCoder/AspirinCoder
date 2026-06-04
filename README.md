@@ -27,7 +27,7 @@
 ### Recieved from Bright Champs
 
 # -Coding Foundation
-![Link to Certificate](https://github.com/AspirinCoder/AspirinCoder/blob/main/Muaaz_Coding_Foundation.pdf)
+![Link to Certificae](https://github.com/AspirinCoder/AspirinCoder/blob/main/Muaaz_Coding_Foundation.pdf)
 ### Recieved from Bright Champs
 
 # -Web Development
@@ -37,3 +37,7 @@
 # -Python Beginner
 ![Link to Certificate](https://github.com/AspirinCoder/AspirinCoder/blob/main/Muaaz_Python_Beginner.pdf)
 ### Recieved from Bright Champs
+
+# -4th Annual Newton Oddessy Competition - Special Commendation
+![Trophy](https://github.com/AspirinCoder/AspirinCoder/blob/main/WhatsApp%20Image%202026-06-04%20at%2021.30.02.jpeg)
+### Recieved from Newton International Academy West Bay
